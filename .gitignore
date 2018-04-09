@@ -1,0 +1,4 @@
+# txt-files(comment)
+logs/*.txt
+
+node_modules/
