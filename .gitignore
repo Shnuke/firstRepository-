@@ -1,4 +1,5 @@
-# txt-files(comment)
+# comments...
 logs/*.txt
-
 node_modules/
+app/img/
+dist/images/
